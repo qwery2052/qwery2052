@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://c.tenor.com/iCqG_iT-h48AAAAC/tenor.gif" width="170" alt="Gatito escribiendo en el teclado" />
+<img src="./assets/cat-typing.gif" width="170" alt="typ typ typ" />
 
 # Hola, soy Michael González 👋
 
@@ -83,14 +83,13 @@ Me gusta transformar necesidades complejas en soluciones comprensibles. Busco un
 - ☁️ Formación en AWS Cloud Practitioner.
 
 <!-- space-shooter:start -->
+
 ## Mi actividad en modo Space Shooter 🚀
 
-
-  ![My GitHub Game](game.gif)
-
-
+![My GitHub Game](game.gif)
 
 [Generado con gh-space-shooter](https://github.com/czl9707/gh-space-shooter).
+
 <!-- space-shooter:end -->
 
 ## GitHub
@@ -109,7 +108,7 @@ Me gusta transformar necesidades complejas en soluciones comprensibles. Busco un
 
 ### Gracias por visitar mi perfil
 
-<img src="https://c.tenor.com/iCqG_iT-h48AAAAC/tenor.gif" width="115" alt="Gatito escribiendo en el teclado" />
+<img src="./assets/cat-coder.svg" width="115" alt="Gatito escribiendo en el teclado" />
 
 <sub>Construyendo soluciones, aprendiendo constantemente y corrigiendo bugs bajo supervisión felina.</sub>
 
