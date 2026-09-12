@@ -82,7 +82,7 @@ Me gusta transformar necesidades complejas en soluciones comprensibles. Busco un
 ## Mi actividad en modo Space Shooter 🚀
 
 <p align="center">
-  <img src="./assets/space-shooter.gif" width="800" alt="Animación Space Shooter de las contribuciones reales de qwery2052" />
+  <img src="./assets/space-shooter.gif?v=40" width="800" alt="Animación Space Shooter de las contribuciones reales de qwery2052" />
 </p>
 
 Mi calendario de contribuciones de GitHub convertido en una batalla espacial. Se actualiza diariamente.
