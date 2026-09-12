@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180" viewBox="0 0 240 180" role="img" aria-labelledby="title desc">
+  <title id="title">Gato programador</title>
+  <desc id="desc">Un gato gris trabajando frente a un computador portátil</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M177 115c31 2 38 30 16 43" stroke="#7c83a0" stroke-width="11">
+      <animate attributeName="d" dur="2.4s" repeatCount="indefinite" values="M177 115c31 2 38 30 16 43;M177 115c34 1 40 18 27 32;M177 115c31 2 38 30 16 43"/>
+    </path>
+    <path d="M58 70 48 33l30 18c13-9 34-9 48 0l30-18-10 38c10 14 10 34 1 48-14 22-75 22-90-1-9-14-8-34 1-48Z" fill="#7c83a0" stroke="#34384f" stroke-width="5"/>
+    <path d="m56 45 17 11-11 8Zm91 0-17 11 11 8Z" fill="#f3a8b8" stroke="none"/>
+    <ellipse cx="82" cy="83" rx="6" ry="8" fill="#79d8c8"/>
+    <ellipse cx="122" cy="83" rx="6" ry="8" fill="#79d8c8"/>
+    <path d="m98 94 4 4 4-4Z" fill="#f3a8b8" stroke="#34384f" stroke-width="2"/>
+    <path d="M102 99c-1 7-9 8-13 4m13-4c1 7 9 8 13 4" stroke="#34384f" stroke-width="3"/>
+    <path d="M67 96H37m30 8H42m95-8h30m-30 8h25" stroke="#34384f" stroke-width="3"/>
+    <path d="M63 118c-10 7-15 17-14 31h106c1-14-4-24-14-31" fill="#7c83a0" stroke="#34384f" stroke-width="5"/>
+    <path d="M72 116h82l-10 48H62Z" fill="#25283b" stroke="#34384f" stroke-width="5"/>
+    <circle cx="108" cy="139" r="7" fill="#79d8c8"/>
+    <path d="M48 165h113" stroke="#34384f" stroke-width="6"/>
+  </g>
+</svg>
