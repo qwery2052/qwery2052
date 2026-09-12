@@ -81,11 +81,10 @@ Me gusta transformar necesidades complejas en soluciones comprensibles. Busco un
 <!-- space-shooter:start -->
 ## Mi actividad en modo Space Shooter 🚀
 
-<p align="center">
-  ![My GitHub Game](game.gif)
-</p>
 
-Mi calendario de contribuciones de GitHub convertido en una batalla espacial. Se actualiza diariamente.
+  ![My GitHub Game](game.gif)
+
+
 
 [Generado con gh-space-shooter](https://github.com/czl9707/gh-space-shooter).
 <!-- space-shooter:end -->
