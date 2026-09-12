@@ -1,0 +1,105 @@
+name: Actualizar Space Shooter
+
+on:
+  schedule:
+    # 06:23 UTC = 01:23 a. m. en Colombia.
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/space-shooter.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: space-shooter
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      # 1. Obtener la rama donde se guarda el perfil.
+      - name: Descargar repositorio
+        uses: actions/checkout@v6
+        with:
+          ref: main
+
+      # 2. Instalar una versión fija del generador.
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar generador
+        run: python -m pip install gh-space-shooter==2.0.5
+
+      # 3. Consultar contribuciones reales y generar el GIF.
+      - name: Generar y validar animación
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: python
+        run: |
+          from pathlib import Path
+          import subprocess
+          from PIL import Image
+
+          output = Path("assets/space-shooter.gif")
+          output.parent.mkdir(parents=True, exist_ok=True)
+          subprocess.run([
+              "gh-space-shooter", "qwery2052",
+              "--output", str(output),
+              "--strategy", "random",
+              "--fps", "25",
+          ], check=True)
+
+          with Image.open(output) as gif:
+              if gif.format != "GIF" or getattr(gif, "n_frames", 1) < 2:
+                  raise RuntimeError("El archivo generado no es un GIF animado válido.")
+              print(f"GIF verificado: {gif.size}, {gif.n_frames} fotogramas.")
+
+          # 4. Mostrarlo en el README solo después de generarlo correctamente.
+          readme = Path("README.md")
+          content = readme.read_text(encoding="utf-8")
+          start = "<!-- space-shooter:start -->"
+          end = "<!-- space-shooter:end -->"
+          section = "\n".join([
+              start,
+              "## Mi actividad en modo Space Shooter 🚀",
+              "",
+              '<p align="center">',
+              '  <img src="./assets/space-shooter.gif" width="800" alt="Animación Space Shooter de las contribuciones reales de qwery2052" />',
+              "</p>",
+              "",
+              "Mi calendario de contribuciones de GitHub convertido en una batalla espacial. Se actualiza diariamente.",
+              "",
+              "[Generado con gh-space-shooter](https://github.com/czl9707/gh-space-shooter).",
+              end,
+          ])
+          if start in content and end in content:
+              before, remaining = content.split(start, 1)
+              _, after = remaining.split(end, 1)
+              content = before + section + after
+          elif start in content or end in content:
+              raise RuntimeError("Los marcadores del README están incompletos.")
+          elif "## GitHub\n" in content:
+              content = content.replace("## GitHub\n", section + "\n\n## GitHub\n", 1)
+          else:
+              content = content.rstrip() + "\n\n" + section + "\n"
+          readme.write_text(content, encoding="utf-8")
+
+      # 5. Guardar únicamente la animación y su sección del README.
+      - name: Publicar actualización
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- assets/space-shooter.gif README.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: actualizar animación de contribuciones"
+          git pull --rebase origin main
+          git push origin HEAD:main
