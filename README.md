@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cat-coder.svg?v=2" width="170" alt="Gato programador de Michael" />
+<img src="https://c.tenor.com/iCqG_iT-h48AAAAC/tenor.gif" width="170" alt="Gatito escribiendo en el teclado" />
 
 # Hola, soy Michael González 👋
 
@@ -109,7 +109,7 @@ Me gusta transformar necesidades complejas en soluciones comprensibles. Busco un
 
 ### Gracias por visitar mi perfil
 
-<img src="./assets/cat-coder.svg?v=2" width="115" alt="Gato programador con fondo transparente" />
+<img src="https://c.tenor.com/iCqG_iT-h48AAAAC/tenor.gif" width="115" alt="Gatito escribiendo en el teclado" />
 
 <sub>Construyendo soluciones, aprendiendo constantemente y corrigiendo bugs bajo supervisión felina.</sub>
 
