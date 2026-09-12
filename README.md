@@ -94,6 +94,7 @@ Me gusta transformar necesidades complejas en soluciones comprensibles. Busco un
 <div align="center">
 
 <img width="467" src="https://github-stats-extended.vercel.app/api?username=qwery2052&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub de Michael" />
+<br/>
 <img width="300" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qwery2052&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados por Michael" />
 
 </div>
