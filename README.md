@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cat-coder.svg" width="170" alt="Gato programador de Michael" />
+<img src="./assets/cat-coder.svg?v=2" width="170" alt="Gato programador de Michael" />
 
 # Hola, soy Michael González 👋
 
@@ -82,8 +82,8 @@ Me gusta transformar necesidades complejas en soluciones comprensibles. Busco un
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=qwery2052&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub de Michael" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwery2052&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados por Michael" />
+<img width="467" src="https://github-stats-extended.vercel.app/api?username=qwery2052&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub de Michael" />
+<img width="300" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qwery2052&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados por Michael" />
 
 </div>
 
@@ -93,7 +93,7 @@ Me gusta transformar necesidades complejas en soluciones comprensibles. Busco un
 
 ### Gracias por visitar mi perfil
 
-<img src="./assets/cat-coder.svg" width="115" alt="Gato programador con fondo transparente" />
+<img src="./assets/cat-coder.svg?v=2" width="115" alt="Gato programador con fondo transparente" />
 
 <sub>Construyendo soluciones, aprendiendo constantemente y corrigiendo bugs bajo supervisión felina.</sub>
 
