@@ -84,7 +84,7 @@ Me gusta transformar necesidades complejas en soluciones comprensibles. Busco un
 
 <!-- space-shooter:start -->
 
-## Mi actividad en modo Space Shooter 🚀
+## Mi actividad 🚀
 
 ![My GitHub Game](game.gif)
 
@@ -96,7 +96,7 @@ Me gusta transformar necesidades complejas en soluciones comprensibles. Busco un
 
 <div align="center">
 
-<img width="467" src="https://github-stats-extended.vercel.app/api?username=qwery2052&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub de Michael" />
+<img width="467" src="https://github-stats-extended.vercel.app/api?username=qwery2052&custom_title=Estad%C3%ADsticas%20de%20Michael%20Gonz%C3%A1lez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub de Michael" />
 <br/>
 <img width="300" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qwery2052&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados por Michael" />
 
