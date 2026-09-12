@@ -1,20 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180" viewBox="0 0 240 180" role="img" aria-labelledby="title desc">
-  <title id="title">Gato programador</title>
-  <desc id="desc">Un gato gris trabajando frente a un computador portátil</desc>
-  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M177 115c31 2 38 30 16 43" stroke="#7c83a0" stroke-width="11">
-      <animate attributeName="d" dur="2.4s" repeatCount="indefinite" values="M177 115c31 2 38 30 16 43;M177 115c34 1 40 18 27 32;M177 115c31 2 38 30 16 43"/>
-    </path>
-    <path d="M58 70 48 33l30 18c13-9 34-9 48 0l30-18-10 38c10 14 10 34 1 48-14 22-75 22-90-1-9-14-8-34 1-48Z" fill="#7c83a0" stroke="#34384f" stroke-width="5"/>
-    <path d="m56 45 17 11-11 8Zm91 0-17 11 11 8Z" fill="#f3a8b8" stroke="none"/>
-    <ellipse cx="82" cy="83" rx="6" ry="8" fill="#79d8c8"/>
-    <ellipse cx="122" cy="83" rx="6" ry="8" fill="#79d8c8"/>
-    <path d="m98 94 4 4 4-4Z" fill="#f3a8b8" stroke="#34384f" stroke-width="2"/>
-    <path d="M102 99c-1 7-9 8-13 4m13-4c1 7 9 8 13 4" stroke="#34384f" stroke-width="3"/>
-    <path d="M67 96H37m30 8H42m95-8h30m-30 8h25" stroke="#34384f" stroke-width="3"/>
-    <path d="M63 118c-10 7-15 17-14 31h106c1-14-4-24-14-31" fill="#7c83a0" stroke="#34384f" stroke-width="5"/>
-    <path d="M72 116h82l-10 48H62Z" fill="#25283b" stroke="#34384f" stroke-width="5"/>
-    <circle cx="108" cy="139" r="7" fill="#79d8c8"/>
-    <path d="M48 165h113" stroke="#34384f" stroke-width="6"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="210" viewBox="0 0 240 210" role="img" aria-labelledby="title desc">
+<title id="title">Gatito programador</title>
+<desc id="desc">Gatito gris de ojos verdes, con sus patitas sobre un portátil y fondo transparente.</desc>
+<g stroke="#41465f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<!-- Cola conectada al cuerpo, detrás de la silueta -->
+<path d="M158 158 C207 174 225 131 201 122 C185 116 181 135 194 139" fill="none" stroke="#41465f" stroke-width="15"/>
+<path d="M158 158 C207 174 225 131 201 122 C185 116 181 135 194 139" fill="none" stroke="#a9aec9" stroke-width="8"/>
+<path d="M78 119 Q65 137 68 175 L172 175 Q175 137 162 119" fill="#a9aec9"/>
+<!-- Cabeza y orejas simétricas -->
+<path d="M65 73 L62 29 Q62 23 68 27 L92 46 Q120 37 148 46 L172 27 Q178 23 178 29 L175 73 Q185 85 181 106 Q176 134 120 136 Q64 134 59 106 Q55 85 65 73Z" fill="#a9aec9"/>
+<path d="M72 39 L74 64 L87 53Z M168 39 L166 64 L153 53Z" fill="#f0b3c5" stroke="none"/>
+<path d="M108 45 L111 59 M120 44 L120 62 M132 45 L129 59" fill="none" stroke="#858caa" stroke-width="5"/>
+<ellipse cx="94" cy="87" rx="10" ry="12" fill="#8de3ca"/>
+<ellipse cx="146" cy="87" rx="10" ry="12" fill="#8de3ca"/>
+<ellipse cx="95" cy="89" rx="3" ry="7" fill="#41465f" stroke="none"/>
+<ellipse cx="145" cy="89" rx="3" ry="7" fill="#41465f" stroke="none"/>
+<circle cx="91" cy="83" r="3" fill="#fff" stroke="none"/>
+<circle cx="142" cy="83" r="3" fill="#fff" stroke="none"/>
+<ellipse cx="81" cy="105" rx="9" ry="4" fill="#edb1c4" stroke="none"/>
+<ellipse cx="159" cy="105" rx="9" ry="4" fill="#edb1c4" stroke="none"/>
+<path d="M115 103 Q120 100 125 103 L120 108Z" fill="#f0b3c5" stroke-width="2"/>
+<path d="M120 108 L120 112 Q113 121 106 114 M120 112 Q127 121 134 114" fill="none" stroke-width="2.5"/>
+<path d="M73 103 L45 99 M72 112 L47 116 M167 103 L195 99 M168 112 L193 116" fill="none" stroke-width="2.5"/>
+<!-- Portátil centrado -->
+<path d="M65 139 Q64 134 70 134 L170 134 Q176 134 175 139 L167 185 L73 185Z" fill="#292e45"/>
+<path d="M102 156 L94 163 L102 170 M138 156 L146 163 L138 170 M124 152 L117 174" fill="none" stroke="#8de3ca" stroke-width="3"/>
+<path d="M59 185 L181 185 L175 193 L65 193Z" fill="#858caa"/>
+<!-- Patitas sobre el borde superior -->
+<rect x="77" y="127" width="25" height="18" rx="9" fill="#c6cae0" stroke-width="3"/>
+<rect x="138" y="127" width="25" height="18" rx="9" fill="#c6cae0" stroke-width="3"/>
+<path d="M85 137 L85 142 M94 137 L94 142 M146 137 L146 142 M155 137 L155 142" stroke-width="1.5"/>
+</g>
 </svg>
