@@ -9,6 +9,10 @@
 Desarrollo aplicaciones web, microservicios y soluciones cloud mantenibles, con especial interés en arquitectura serverless, calidad de código y productos que resuelven problemas reales.
 
 [![GitHub](https://img.shields.io/badge/GitHub-qwery2052-181717?style=for-the-badge&logo=github)](https://github.com/qwery2052)
+[![LinkedIn: myth-dev](https://img.shields.io/badge/LinkedIn-myth--dev-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/myth-dev/)
+[![npm: mything](https://img.shields.io/badge/npm-mything-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~mything)
+[![VS Marketplace: mythDev](https://img.shields.io/badge/VS_Marketplace-mythDev-007ACC?style=for-the-badge)](https://marketplace.visualstudio.com/publishers/mythDev)
+
 ![Colombia](https://img.shields.io/badge/Neiva-Colombia-FCD116?style=for-the-badge&labelColor=003893)
 ![English](https://img.shields.io/badge/English-B1--B2-79d8c8?style=for-the-badge)
 
