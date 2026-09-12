@@ -78,6 +78,18 @@ Me gusta transformar necesidades complejas en soluciones comprensibles. Busco un
 - 📚 Diplomado en Programación PHP.
 - ☁️ Formación en AWS Cloud Practitioner.
 
+<!-- space-shooter:start -->
+## Mi actividad en modo Space Shooter 🚀
+
+<p align="center">
+  <img src="./assets/space-shooter.gif" width="800" alt="Animación Space Shooter de las contribuciones reales de qwery2052" />
+</p>
+
+Mi calendario de contribuciones de GitHub convertido en una batalla espacial. Se actualiza diariamente.
+
+[Generado con gh-space-shooter](https://github.com/czl9707/gh-space-shooter).
+<!-- space-shooter:end -->
+
 ## GitHub
 
 <div align="center">
