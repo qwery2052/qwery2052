@@ -4,7 +4,7 @@
 
 # Hola, soy Michael González 👋
 
-### Full Stack Developer · Backend Developer · AWS Cloud Developer
+### Full Stack Developer · AWS Cloud Developer
 
 Desarrollo aplicaciones web, microservicios y soluciones cloud mantenibles, con especial interés en arquitectura serverless, calidad de código y productos que resuelven problemas reales.
 
