@@ -15,6 +15,7 @@ Desarrollo aplicaciones web, microservicios y soluciones cloud mantenibles, con 
 
 ![Colombia](https://img.shields.io/badge/Neiva-Colombia-FCD116?style=for-the-badge&labelColor=003893)
 ![English](https://img.shields.io/badge/English-B1--B2-79d8c8?style=for-the-badge)
+![Visitas](https://komarev.com/ghpvc/?username=qwery2052&label=VISITAS&color=7057ff&style=for-the-badge)
 
 </div>
 
