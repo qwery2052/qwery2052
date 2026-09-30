@@ -2,11 +2,13 @@
 
 <img src="./assets/cat-typing.gif" width="170" alt="typ typ typ" />
 
-# Hola, soy Michael González 👋
+# Hi, I'm Michael González 👋
 
 ### Full Stack Developer · AWS Cloud Developer
 
-Desarrollo aplicaciones web, microservicios y soluciones cloud mantenibles, con especial interés en arquitectura serverless, calidad de código y productos que resuelven problemas reales.
+**🌐 [English](./README.md) · [Español](./README.es.md)**
+
+I build maintainable web applications, microservices and cloud solutions, with a strong interest in serverless architecture, code quality and products that solve real problems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-qwery2052-181717?style=for-the-badge&logo=github)](https://github.com/qwery2052)
 [![LinkedIn: myth-dev](https://img.shields.io/badge/LinkedIn-myth--dev-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/myth-dev/)
@@ -18,77 +20,77 @@ Desarrollo aplicaciones web, microservicios y soluciones cloud mantenibles, con 
 
 </div>
 
-## Sobre mí
+## About me
 
-- 💻 Más de **7 años de experiencia** en tecnología y desarrollo de software.
-- ☁️ Construyo e integro soluciones en **AWS**, con enfoque en arquitecturas serverless y microservicios.
-- 🧩 Trabajo de extremo a extremo con **backend, frontend, bases de datos e infraestructura cloud**.
-- 🧭 He liderado equipos, definido arquitecturas, establecido estándares de código y acompañado a otros desarrolladores.
-- 🌎 Tengo experiencia colaborando de forma remota con equipos de **LATAM, India y Australia**.
-- 🐈 Amante de los gatos; creo firmemente que todo buen despliegue merece supervisión felina.
+- 💻 Over **7 years of experience** in technology and software development.
+- ☁️ I build and integrate solutions on **AWS**, focused on serverless architectures and microservices.
+- 🧩 I work end to end across **backend, frontend, databases and cloud infrastructure**.
+- 🧭 I have led teams, defined architectures, set coding standards and mentored other developers.
+- 🌎 I have experience collaborating remotely with teams across **LATAM, India and Australia**.
+- 🐈 Cat lover; I firmly believe every good deployment deserves feline supervision.
 
-## En qué trabajo actualmente
+## What I'm working on
 
-- Desarrollo de microservicios y flujos en AWS.
-- Integración de capas de acceso a datos relacionales y NoSQL.
-- Optimización técnica de infraestructura, rendimiento y costos cloud.
-- Configuraciones y despliegues consistentes con CloudFormation y Systems Manager.
-- Comunicación técnica diaria en inglés dentro de equipos multiculturales.
+- Building microservices and workflows on AWS.
+- Integrating relational and NoSQL data access layers.
+- Technical optimization of infrastructure, performance and cloud costs.
+- Consistent configuration and deployments with CloudFormation and Systems Manager.
+- Daily technical communication in English within multicultural teams.
 
-## Tecnologías
+## Tech stack
 
-### Cloud y backend
+### Cloud & backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,nodejs,ts,js,php,laravel,cs,dotnet&perline=8" alt="AWS, Node.js, TypeScript, JavaScript, PHP, Laravel, C# y .NET" />
+  <img src="https://skillicons.dev/icons?i=aws,nodejs,ts,js,php,laravel,cs,dotnet&perline=8" alt="AWS, Node.js, TypeScript, JavaScript, PHP, Laravel, C# and .NET" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind,materialui&perline=7" alt="Angular, React, Next.js, HTML, CSS, Tailwind CSS y Material UI" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind,materialui&perline=7" alt="Angular, React, Next.js, HTML, CSS, Tailwind CSS and Material UI" />
 </p>
 
-### Datos, herramientas y DevOps
+### Data, tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dynamodb,mysql,docker,git,github,vscode&perline=6" alt="DynamoDB, MySQL, Docker, Git, GitHub y VS Code" />
+  <img src="https://skillicons.dev/icons?i=dynamodb,mysql,docker,git,github,vscode&perline=6" alt="DynamoDB, MySQL, Docker, Git, GitHub and VS Code" />
 </p>
 
-También trabajo con SQL Server, REST APIs, API Gateway, Lambda, S3, CloudWatch, SSM, CI/CD, PrimeNG, Ant Design, Scrum, principios SOLID y Clean Code.
+I also work with SQL Server, REST APIs, API Gateway, Lambda, S3, CloudWatch, SSM, CI/CD, PrimeNG, Ant Design, Scrum, SOLID principles and Clean Code.
 
-## Mi enfoque profesional
+## My professional approach
 
 ```text
-Ideas claras → arquitectura simple → código mantenible → despliegues confiables
+Clear ideas → simple architecture → maintainable code → reliable deployments
 ```
 
-Me gusta transformar necesidades complejas en soluciones comprensibles. Busco un equilibrio entre velocidad de entrega, buena arquitectura y facilidad de mantenimiento, sin sobreingeniería.
+I enjoy turning complex needs into understandable solutions. I aim for a balance between delivery speed, good architecture and maintainability, without over-engineering.
 
-## Trayectoria destacada
+## Career highlights
 
 - **Amaris Consulting** — Full Stack / Backend AWS Developer.
-- **Universidad Surcolombiana** — Tech Lead y Coordinador de Proyecto.
-- **Borg Financial (Australia)** — Full Stack Developer freelance.
-- **Proyecto KWEKWE NEJ'WESX** — Frontend Developer con React y Next.js.
-- Experiencia previa coordinando infraestructura, soporte corporativo, servidores y bases de datos.
+- **Universidad Surcolombiana** — Tech Lead and Project Coordinator.
+- **Borg Financial (Australia)** — Freelance Full Stack Developer.
+- **KWEKWE NEJ'WESX Project** — Frontend Developer with React and Next.js.
+- Previous experience coordinating infrastructure, corporate support, servers and databases.
 
-## Formación
+## Education
 
-- 🎓 Ingeniería de Sistemas.
-- 🎓 Tecnología en Análisis y Desarrollo de Sistemas de Información.
-- 🎓 Técnica en Análisis y Diseño de Bases de Datos.
-- 📚 Diplomado en Analítica de Datos y Big Data.
-- 📚 Diplomado en Programación PHP.
-- ☁️ Formación en AWS Cloud Practitioner.
+- 🎓 Systems Engineering.
+- 🎓 Technology in Information Systems Analysis and Development.
+- 🎓 Technician in Database Analysis and Design.
+- 📚 Diploma in Data Analytics and Big Data.
+- 📚 Diploma in PHP Programming.
+- ☁️ AWS Cloud Practitioner training.
 
 <!-- space-shooter:start -->
 
-## Mi actividad 🚀
+## My activity 🚀
 
 ![My GitHub Game](game.gif)
 
-[Generado con gh-space-shooter](https://github.com/czl9707/gh-space-shooter).
+[Generated with gh-space-shooter](https://github.com/czl9707/gh-space-shooter).
 
 <!-- space-shooter:end -->
 
@@ -96,20 +98,20 @@ Me gusta transformar necesidades complejas en soluciones comprensibles. Busco un
 
 <div align="center">
 
-<img width="467" src="https://github-stats-extended.vercel.app/api?username=qwery2052&custom_title=Estad%C3%ADsticas%20de%20Michael%20Gonz%C3%A1lez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub de Michael" />
+<img width="467" src="https://github-stats-extended.vercel.app/api?username=qwery2052&custom_title=Michael%20Gonz%C3%A1lez%20Stats&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Michael's GitHub stats" />
 <br/>
-<img width="300" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qwery2052&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados por Michael" />
+<img width="300" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qwery2052&layout=compact&theme=tokyonight&hide_border=true" alt="Michael's most used languages" />
 
 </div>
 
-> Parte de mi experiencia profesional está en repositorios privados; aquí iré compartiendo proyectos, herramientas y aprendizajes que puedan ser útiles para otros desarrolladores.
+> Part of my professional experience lives in private repositories; here I'll keep sharing projects, tools and lessons that may be useful to other developers.
 
 <div align="center">
 
-### Gracias por visitar mi perfil
+### Thanks for stopping by
 
-<img src="./assets/cat-coder.svg" width="115" alt="Gatito escribiendo en el teclado" />
+<img src="./assets/cat-coder.svg" width="115" alt="Cat typing on a keyboard" />
 
-<sub>Construyendo soluciones, aprendiendo constantemente y corrigiendo bugs bajo supervisión felina.</sub>
+<sub>Building solutions, learning constantly and fixing bugs under feline supervision.</sub>
 
 </div>
